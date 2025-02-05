@@ -1,4 +1,11 @@
 hello
 devops new batch
 devops pracice session
+pipeline {
+agent any{
+tools:
+stages  {
+  stage("build"{
+}
+
 amazon code
